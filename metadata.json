@@ -1,0 +1,6 @@
+{
+  "name": "VibraBalance 4-Run - Dynamic Rotor Balancing & FFT Vibration Analyzer",
+  "description": "Dynamic single-plane 4-run no-phase rotor balancing and live FFT vibration analyzer using smartphone accelerometers for Android and iOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
